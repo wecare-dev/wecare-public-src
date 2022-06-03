@@ -22,4 +22,4 @@
 
 ແປໂດຍ: ນາງ ກິ່ງສະດາ ແກ້ວມະນີວົງ
 
-<u><a href="https://today.line.me/th/v2/article/7EZGwZ">ແຫຼ່ງທີ່ມາ</a></u>
+[ແຫຼ່ງທີ່ມາ](https://today.line.me/th/v2/article/7EZGwZ)
