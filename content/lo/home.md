@@ -21,5 +21,4 @@
 
 
 ແປໂດຍ: ນາງ ກິ່ງສະດາ ແກ້ວມະນີວົງ
-
 [ແຫຼ່ງທີ່ມາ](https://today.line.me/th/v2/article/7EZGwZ)
